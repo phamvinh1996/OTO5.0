@@ -493,6 +493,7 @@ div#offcanvasDarkNavbar {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .scroll-navbar .container {
@@ -552,8 +553,6 @@ div#offcanvasDarkNavbar {
   height: 80px;
   background-color: white;
   color: black;
-
-
 }
 
 .side-navbar {
@@ -561,7 +560,6 @@ div#offcanvasDarkNavbar {
   position: fixed;
   width: 100%;
   z-index: 99;
-
 }
 
 .side-navbar.show {
@@ -591,7 +589,6 @@ div#offcanvasDarkNavbar {
 /* mục liện hệ  THANH CUỘN*/
 
 .contact-nav111{
-
   position: absolute;
   top: 9%;
   /* Adjust the distance from the top as needed */
@@ -611,10 +608,8 @@ div#offcanvasDarkNavbar {
 
 
 .navbar-toggler01{
-
   color: white;
   background-color: black;
-
   right: -211px;
     top: 21px;
     position: absolute;
