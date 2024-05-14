@@ -385,4 +385,6 @@ document.getElementById("searchBtn").addEventListener("click", function() {
   
   
   
-     
+      // JavaScript để hiển thị thanh điều hướng khi cuộn trang xuống
+   
+
